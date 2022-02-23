@@ -1,1 +1,2 @@
-# Hypothesis-testing-to-infer-population-mean
+# Hypothesis testing to infer population mean
+(Data Analysis Project)
